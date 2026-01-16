@@ -5,7 +5,6 @@
 ## 📋 프로젝트 개요
 
 - **파일명**: `UART Protocol Test for Master.c` (프로젝트 명칭은 UART이나 실제 구현은 SPI 통신 사용)
-- **작성자**: TyeolRik
 - **작성일**: 2019-12-12
 - **MCU**: ATmega128 (Master Node)
 
