@@ -1,0 +1,12 @@
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM Class Library.csproj.CoreCompileInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM Class Library.AssemblyInfoInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM Class Library.AssemblyInfo.cs
+C:\Users\CraneHk\source\repos\SIM Class Library\DLLs\netstandard2.0\SIM Class Library.deps.json
+C:\Users\CraneHk\source\repos\SIM Class Library\DLLs\netstandard2.0\SIM Class Library.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\DLLs\netstandard2.0\SIM Class Library.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM Class Library.csprojAssemblyReference.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\bin\Debug\netstandard2.0\SIM.deps.json
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\bin\Debug\netstandard2.0\SIM.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\bin\Debug\netstandard2.0\SIM.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\SIM Class Library\obj\Debug\netstandard2.0\SIM.pdb

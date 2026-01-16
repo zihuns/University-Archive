@@ -1,0 +1,9 @@
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\bin\Debug\netstandard2.0\Navigator.deps.json
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\bin\Debug\netstandard2.0\Navigator.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\bin\Debug\netstandard2.0\Navigator.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.csproj.CoreCompileInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.AssemblyInfoInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.AssemblyInfo.cs
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\Navigator\obj\Debug\netstandard2.0\Navigator.csprojAssemblyReference.cache

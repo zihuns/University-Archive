@@ -1,0 +1,9 @@
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI Class Library.csproj.CoreCompileInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI Class Library.AssemblyInfoInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI Class Library.AssemblyInfo.cs
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI Class Library.csprojAssemblyReference.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\bin\Debug\netstandard2.0\GUI.deps.json
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\bin\Debug\netstandard2.0\GUI.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\bin\Debug\netstandard2.0\GUI.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\GUI Class Library\obj\Debug\netstandard2.0\GUI.pdb

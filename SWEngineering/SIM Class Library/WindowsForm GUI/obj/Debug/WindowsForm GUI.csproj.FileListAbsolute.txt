@@ -1,0 +1,17 @@
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\WindowsForm GUI.exe.config
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\WindowsForm GUI.exe
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\WindowsForm GUI.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.csprojAssemblyReference.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm_GUI.Form1.resources
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm_GUI.Properties.Resources.resources
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.csproj.GenerateResource.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.csproj.CoreCompileInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.exe
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\GUI.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\Navigator.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\bin\Debug\SIM.dll
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm_GUI.Form2.resources
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm GUI.csproj.CopyComplete
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm_GUI.editMap.resources
+C:\Users\CraneHk\source\repos\SIM Class Library\WindowsForm GUI\obj\Debug\WindowsForm_GUI.Form3.resources

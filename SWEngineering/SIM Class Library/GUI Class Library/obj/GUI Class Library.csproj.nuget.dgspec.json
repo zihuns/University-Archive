@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\GUI Class Library.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\GUI Class Library.csproj": {
+      "version": "1.0.17",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\GUI Class Library.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\GUI Class Library.csproj",
+        "packagesPath": "C:\\Users\\CraneHk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\CraneHk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\GUI Class Library\\bin\\Debug": {},
+          "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\Navigator\\bin\\Debug": {},
+          "C:\\Users\\CraneHk\\source\\repos\\SIM Class Library\\SIM Class Library\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Navigator": {
+              "target": "Package",
+              "version": "[1.0.17, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

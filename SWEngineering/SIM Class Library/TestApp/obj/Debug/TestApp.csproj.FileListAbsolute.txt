@@ -1,0 +1,7 @@
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\bin\Debug\TestApp.exe
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\bin\Debug\TestApp.pdb
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\obj\Debug\TestApp.exe
+C:\Users\CraneHk\source\repos\SIM Class Library\TestApp\obj\Debug\TestApp.pdb
