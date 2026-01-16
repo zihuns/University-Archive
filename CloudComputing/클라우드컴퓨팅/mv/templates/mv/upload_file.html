@@ -1,0 +1,142 @@
+{% extends 'mv/base.html' %}
+
+{% load crispy_forms_tags %}
+
+{% block content %}
+<style>
+        div.main {
+            width:100%;
+            height:620px;
+            border:3px solid red; 
+            margin:0px auto;
+            padding:0px; 
+            overflow:hidden;
+            background-color: #585858;
+            text-align: center;
+            background-image:url('https://t1.daumcdn.net/cfile/tistory/2244304254130EEC0A');
+            }
+        div.left {
+            width: 20%;
+            float: left;
+            box-sizing: border-box;
+            margin-top:30px;
+            margin-left:50px;
+            margin-bottom:50px;
+            color: white;
+            
+            background-size: auto;
+            background-position: center;
+            background-color: #8a0118; 
+        }
+
+        div.left1 {
+            width: 100%;
+            float: top;
+            box-sizing: border-box;
+            margin-top:20px;
+            margin-bottom:20px;
+            color: white;
+            
+            background-size: auto;
+            background-position: center;
+            background-color: #8a0118;
+            
+        }
+
+        div.right {
+            width: 65%;
+            float: right;
+            margin-top:30px;
+            margin-right:50px;
+            color: white;
+            text-align: center;
+            box-sizing: border-box;
+            background-image:url('https://extmovie.maxmovie.com/xe/files/attach/images/135/707/573/034/ccfbed6bed36cdf68756e44b4cb2b4b5.jpg');
+            
+            background-image:url('https://extmovie.maxmovie.com/xe/files/attach/images/135/707/573/034/ccfbed6bed36cdf68756e44b4cb2b4b5.jpg');
+        
+            background-image:url('https://t1.daumcdn.net/cfile/tistory/2571733A5413188F2C');
+            background-image:url('https://t1.daumcdn.net/cfile/tistory/99FFBB415E1E964928');
+            
+            background-position: center;
+        }
+
+        .content{
+            border:1px solid black;
+            width:95%; 
+            height:95%;
+            margin:24px auto;
+            padding:0px;
+            overflow:hidden;
+            text-align:center;
+        }
+    
+        .content:after {content:""; clear:both; display:block;}
+    
+        .content > div { 
+            float:left;
+            color:black;
+            width:33%; 
+            height:100%;
+            padding: 10px;
+            text-align: center;
+            box-sizing:border-box;    
+            border:3px solid gray; 
+        }
+        .content > div:hover{ color:#000000; background-color: #f1f1f1;  }
+        
+        </style>
+        
+<div class="main">
+     <h1 align="center" style="color: white;">SEO-FLIX</h2>
+
+    <div class="left" style="border: 0px; padding: 0px; height: 450px;">
+        <div class="left1" style="border: 0px; padding: 0px; height: 250px;">
+            <h2 align="center">Select Genre</h2>
+
+            <form method= "POST" action="{% url 'upload_file' %}">
+                {% csrf_token %}
+                <select name ="장르">
+                    <option value="장르선택">장르선택</option>
+                    <option value="드라마">드라마</option>
+                    <option value="로맨스">로맨스</option>
+                    <option value="범죄">범죄</option>
+                    <option value="스릴러">스릴러</option>
+                    <option value="액션">액션</option>
+                    <option value="호러">호러</option>
+                </select>
+                <button>검색</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="right" style="border: 0px; padding: 0px; height: 450px;">
+            <h2 align="center">Movie List</h2>
+            
+        <table align="center" class="table mb-0" style="text-align: center; width: 60%;">
+            <thead>
+                <tr>
+                    <th style="width: 50%;">제목</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for file in files %}
+                <tr>
+                    <td style="width: 50%;">{{ file.제목 }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    
+    
+        </div>
+    </div>
+    <div style="float:right;">
+        Last update : 2020.06.26
+    </div>
+{% endblock %}
+        
+    {% block script %}
+
+    {% endblock %}
+   
